@@ -1,0 +1,1247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 3482.22 3382.59"
+   id="svg14187"
+   sodipodi:docname="1.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14187">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect14228"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview14187"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.5754412"
+     inkscape:cx="1705.6478"
+     inkscape:cy="610.83565"
+     inkscape:window-width="1648"
+     inkscape:window-height="958"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg14187" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="main"
+     style="display:none">
+    <path
+       id="rect7126"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2647.8701,653.73999 h 52.29 v 96.35 h -52.29 z" />
+    <path
+       style="fill:#00ffff;stroke-width:6.4;stroke-dasharray:none"
+       d="m 2380.4566,526.3906 c 0.019,0.0555 0.028,0.11269 0.021,0.16992 h 0.379 v 207.49024 h 153.3789 V 526.56052 h 0.062 c -0.014,-0.0349 -6e-4,-0.07 0.012,-0.10547 -0.01,-0.0206 -0.018,-0.042 -0.024,-0.0644 z"
+       id="path14197" />
+    <path
+       style="fill:#00ffff;stroke-width:6.4;stroke-dasharray:none"
+       d="m 2125.1773,526.3906 v 220.83984 h 30.4394 v -17.70117 h 18.9903 v 17.70117 h 93.6386 v 35.08008 h 104.8399 v -255.75 h 1.1211 c -0.027,-0.0563 -0.053,-0.11279 -0.078,-0.16992 z"
+       id="path14196" />
+    <path
+       style="fill:#00ffff;stroke-width:6.4;stroke-dasharray:none"
+       d="m 2541.2359,522.67966 v 3.71094 h -0.2012 c 0,0.0187 0,0.0379 0,0.0566 0,0.0374 -4e-4,0.0757 0,0.11328 h 0.1992 v 111 h 103.6504 V 522.67966 Z"
+       id="polygon7134-3" />
+    <path
+       id="polygon7127"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2434.51,903.98 v -22.87 h -53.67 v -126.6 h 169.26 v -18.95 h -8.88 V 645.3 h 103.65 v 258.68 z" />
+    <path
+       id="rect7127"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2654.1299,755.91998 h 105.53 v 49.03 h -105.53 z" />
+    <path
+       id="rect7128"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2654.1299,813.45001 h 100.03 v 94.06 h -100.03 z" />
+    <path
+       id="rect7094"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2268.23,785.52002 h 104.84 v 118.46 h -104.84 z" />
+    <path
+       id="rect7133"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2125.1599,750.45001 h 139.98 v 73.78 h -139.98 z" />
+    <path
+       id="rect7134"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2125.1599,827.33002 h 129.71 v 76.65 h -129.71 z" />
+    <path
+       id="polygon7135"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1892.84,906.45 v -18.36 h -15.44 v -45.11 h 218.47 v 63.47 z" />
+    <path
+       id="polygon7136"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2041.18,773.39 v -11.74 h -16.49 v -76.97 h 52 v 13.06 h 19.18 v 75.65 z" />
+    <path
+       id="polygon7137"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2080.87,665.68 v 16.5 h -56.18 v -74.72 h 75.06 v 58.22 z" />
+    <path
+       id="rect7137"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2024.6899,530.70001 h 79.41 v 74.26 h -79.41 z" />
+    <path
+       id="polygon7138"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2024.69,528.2 v -73.52 h 60.77 v 21.06 h 18.64 v 52.46 z" />
+    <path
+       id="polygon7139"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2080.46,439.7 v 12.48 h -55.77 V 341.59 h 75.35 v 98.11 z" />
+    <path
+       id="polygon7140"
+       style="fill:#00ffff;stroke-width:0"
+       d="M 2024.69,339.09 V 222.8 h 57.4 v 22.31 h 17.95 v 93.98 z" />
+    <path
+       id="rect7135"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1877.4,779.34998 h 218.47 v 57.66 H 1877.4 Z" />
+    <path
+       id="rect7140"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1729.9,822.46002 h 73.14 v 71.63 h -73.14 z" />
+    <path
+       id="polygon7141"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1668.01,897.09 v -10.32 h -17.17 v -64.31 h 76.03 v 74.63 z" />
+    <path
+       id="polygon7142"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1631.22,886.77 v 10.37 h -56.47 v -74.68 h 73.07 v 64.31 z" />
+    <path
+       id="polygon7143"
+       style="fill:#00ffff;stroke-width:0"
+       d="M 1574.75,1088.63 V 975.48 h 62.32 v -3.03 h -62.32 v -72.28 h 56.47 v 22.82 h -5.12 v 26.69 h 21.72 v 138.95 z" />
+    <path
+       id="polygon7100"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1855.93,661.39 v 33.17 h -56.18 v -94.1 h 71.65 v 60.93 z" />
+    <path
+       id="polygon7101"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1799.75,600.46 v -73.54 h 56.76 v 9.53 h 14.89 v 64.01 z" />
+    <path
+       id="polygon7102"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1856.51,516.21 v 10.71 h -56.76 v -75.25 h 55.94 v 20.75 h 15.71 v 43.79 z" />
+    <path
+       style="fill:#00ffff"
+       d="m 1875.6191,526.33008 v 74.13086 h 72.0118 l 0.059,-74.13086 z"
+       id="path14200"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#00ffff"
+       d="m 1947.6309,602.96094 h -72.0118 v 58.42968 h 16.1914 v 33.37891 h 55.879 z"
+       id="path14202"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:#00ffff"
+       d="m 1574.2598,676.26953 0.051,73.71118 72.1553,0.0661 0.072,-54.45734 h -16.9297 v -19.32031 z"
+       id="path15"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:#00ffff"
+       d="m 1665.0195,672.80078 v 18.81836 h -15.4492 l 0.021,58.44029 71.0661,-0.0214 0.056,-77.23734 z"
+       id="path13"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:#00ffff"
+       d="m 1027.1602,903.67969 v 62.26953 h 4.6406 l 75.7093,-5e-5 v -62.26953 z"
+       id="path9"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       id="polygon7132"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2379.38,324.81 h -0.01 l -12.75,-4.25 -39.49,-13.17 h -67.15 v -50.18 l 139.77,-2.98 4.7,78.94 -12.32,-4.11 z" />
+    <path
+       id="polygon7104"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1855.69,433.85 v 15.32 h -55.94 v -73.02 h 72.84 v 57.7 z" />
+    <path
+       id="rect7104"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1799.75,300.03 h 72.84 v 73.62 h -72.84 z" />
+    <path
+       id="rect7105"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1875.62,298.26999 h 72.07 v 74.13 h -72.07 z" />
+    <path
+       id="polygon7109"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1875.62,295.77 v -51.44 h 25.51 v -27.05 h 46.56 v 78.49 z" />
+    <path
+       id="polygon7110"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1799.75,296.3 v -77.6 h 55.41 v 25.63 h 17.43 v 51.97 z" />
+    <path
+       d="m 1947.6309,450.09961 h -57.5313 v 12.70117 h -14.4805 v 60.58984 h 72.0704 z"
+       id="path11"
+       sodipodi:nodetypes="ccccccc"
+       style="fill:#00ffff" />
+    <path
+       d="m 1875.6191,374.90039 v 58.94922 h 14.4805 v 13.75 h 57.5313 l 0.059,-72.69922 z"
+       id="polygon7103"
+       sodipodi:nodetypes="ccccccc"
+       style="fill:#00ffff" />
+    <path
+       id="polygon7095"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1629.61,659.68 v 14.09 h -55.35 v -74.32 h 72.3 v 60.23 z" />
+    <path
+       id="polygon7097"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1574.26,521.31 v -73.39 h 57.32 v 19.67 h 15.43 v 53.72 z" />
+    <path
+       id="rect7098"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1574.26,296.12 h 72.75 v 73.4 h -72.75 z" />
+    <path
+       id="polygon7107"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1574.26,293.62 v -78.17 h 53.93 v 20.29 h 18.82 v 57.88 z" />
+    <path
+       id="polygon7111"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1631.58,430.14 v 15.28 h -57.32 v -73.4 h 72.75 v 58.12 z" />
+    <path
+       id="rect7200"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1574.26,523.81 h 72.75 v 73.14 h -72.75 z" />
+    <path
+       id="rect7095"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1650.04,298.64001 h 70.67 v 73.76001 h -70.67 z" />
+    <path
+       id="polygon7099"
+       style="fill:#00ffff;stroke-width:0"
+       d="M 1665.48,447.92 V 434.8 h -15.44 v -59.9 h 70.67 v 73.02 z" />
+    <path
+       id="polygon7108"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1650.04,298.64 v -58.02 h 13 V 218.7 h 57.67 v 79.94 z" />
+    <path
+       style="fill:#00ffff"
+       d="m 1720.6295,599.90134 c -24.2153,1.37008 -60.3098,-1.08127 -71.0397,-0.40501 v 58.95313 h 15.4297 v 14.35156 h 55.6914 z"
+       id="path14"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:#00ffff"
+       d="m 1650.0391,525.65039 v 71.29883 l -0.4493,2.86117 71.087,-0.021 0.034,-74.13911 z"
+       id="polygon7096"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       id="polygon7098"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1650.04,525.65 v -54.88 h 15.44 v -20.35 h 55.23 v 75.23 z" />
+    <path
+       id="rect7568"
+       style="fill:#00ffff;stroke:none;stroke-miterlimit:10"
+       d="m 1439.96,220.3 h 60.08 v 20.15 h -60.08 z" />
+    <path
+       id="polygon7165"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1358.23,751.73 v -73.84 h 45.48 v 17.79 h 21.97 v 56.05 z" />
+    <path
+       id="rect7165"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1358.23,754.22998 h 67.45 v 73.68 h -67.45 z" />
+    <path
+       id="polygon7168"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1437.12,675.9 v -18.87 h -8.94 v -55.26 h 68.89 v 74.13 z" />
+    <path
+       id="rect7169"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1428.1801,525.65002 h 68.89 v 73.62001 h -68.89 z" />
+    <path
+       id="polygon7170"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1428.18,523.15 v -57.51 h 12.45 v -16.11 h 56.44 v 73.62 z" />
+    <path
+       id="polygon7172"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1445.48,447.03 v -34.7 h -17.3 v -38.19 h 68.89 v 72.89 z" />
+    <path
+       id="polygon7169"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1403.71,674.92 v 0.47 h -45.48 v -74.87 h 67.45 v 57.51 h -22.75 v 16.89 z" />
+    <path
+       id="rect7170"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1358.23,525.65002 h 67.45 v 74.87001 h -67.45 z" />
+    <path
+       id="polygon7171"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1358.23,523.15 v -74.11 h 47.34 v 19.29 h 20.11 v 54.82 z" />
+    <path
+       id="polygon7173"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1405.57,429.75 v 19.29 h -47.34 v -74.9 h 67.45 v 55.61 z" />
+    <path
+       style="fill:#00ffff"
+       d="m 1428.1797,754.23047 v 74.21875 h 68.9101 V 754.2334 Z"
+       id="path17"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#00ffff"
+       d="m 1437.7207,678.40039 v 14.79883 h -9.541 v 58.53125 l 68.9101,-0.11652 v -67.03387 h -0.019 v -6.17969 z"
+       id="polygon7166"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:#00ffff"
+       d="m 1358.2305,830.41016 v 4.41992 h -0.02 v 56.68945 h 0.02 v 5.09961 l 49.0487,-0.11795 v -18.99142 h 18.4004 v -47.09961 z"
+       id="path19"
+       sodipodi:nodetypes="ccccccccccc" />
+    <path
+       style="fill:#00ffff"
+       d="m 1440.0098,902.67126 v 11.00836 h -8.0293 v 33.17969 h -5.0703 v 18.56054 h 70.1601 v -3.20898 h 0.019 v -59.66406 z"
+       id="path21"
+       sodipodi:nodetypes="ccccccccccc" />
+    <path
+       style="fill:#00ffff"
+       d="m 1428.1797,828.44922 0.1097,73.51969 68.6063,0.03 0.1944,-73.54949 z"
+       id="polygon7167"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#00ffff;stroke:none;stroke-miterlimit:10"
+       d="m 1358.0297,965.12312 64.0073,0.0895 0.179,-16.65086 -7.2511,-0.0895 v -20.67929 l 7.0721,-0.0895 0.09,-11.99578 -14.95,-0.17904 v -16.65086 l -49.1468,0.0895 z"
+       id="path22" />
+    <path
+       id="rect7150"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1212.16,819.77002 h 67.09 v 69.62 h -67.09 z" />
+    <path
+       id="polygon7150"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1204.6,965.95 v -49.94 h 6.38 v -24.12 h 68.27 v 74.06 z" />
+    <path
+       id="polygon7151"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1175.66,882.45 v 9.97 h -14.32 l -21.06,0.31 v -67.9 h 64.82 v 57.62 z" />
+    <path
+       id="polygon7152"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1185.57,932.33 v 20.35 h 16.53 v 13.27 h -92.09 v -62.27 h 65.65 v 9.47 h 26.44 v 19.18 z" />
+    <path
+       d="m 1210.1602,743.51562 v 73.75391 h 69.0898 l -0.078,-74.01624 z"
+       id="path24"
+       style="fill:#00ffff"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       d="m 1210.1602,666.58984 -0.039,76.37885 69.0506,0.0567 0.078,-76.43556 z"
+       id="rect7149"
+       style="fill:#00ffff"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon7145"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1173.54,422.21 v 19.06 h -27.61 v -6.37 h -7.89 V 220.3 h 39.03 v 10.85 h 26.69 v 191.06 z" />
+    <path
+       id="rect7146"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1213.34,438.45001 h 65.91 v 73.95 h -65.91 z" />
+    <path
+       id="polygon7146"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1171.97,651.17 v 19.35 h -33.86 v -29.81 h -0.07 V 450.09 h 65.72 v 201.08 z" />
+    <path
+       id="rect7147"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1213.34,514.90002 h 65.91 v 74.58001 h -65.91 z" />
+    <path
+       id="rect7148"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1211.1,591.97998 h 68.15 v 72.11 h -68.15 z" />
+    <path
+       id="polygon7155"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 909.27,765.74 v 29.91 l -9.97,8.89 -28.37,25.3 -17.64,15.73 -26.62,23.73 -6.04,5.38 H 797.8 l 17.77,-203.29 h 93.71 v 94.35 z" />
+    <path
+       id="polygon7157"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 966.28,939.27 -45.18,-41.65 -2.64,-11.47 -12.91,-5.02 -36.78,-41.24 6.21,-5.54 28.1,-25.06 8.6,-7.66 h 106.91 v 97.64 z" />
+    <path
+       id="rect7157"
+       style="fill:#00ffff;stroke-width:0"
+       d="M 935.78998,694.90002 H 1038.56 v 70.84 H 935.78998 Z" />
+    <path
+       id="polygon7159"
+       style="fill:#00ffff;stroke-width:0"
+       d="M 911.1,590.34 V 448.45 h 11.18 V 433.58 H 911.1 V 220.3 h 222.09 v 370.04 z" />
+    <path
+       id="rect7159"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 808.03003,220.3 h 95.13 v 79 h -95.13 z" />
+    <path
+       id="polygon7185"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 815.57,658.74 -77.36,-43.11 v -150.3 l 69.82,5.59 V 303.01 h 95.13 v 355.73 z" />
+    <path
+       id="rect7152"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 831.28003,1001.39 h 92.44 v 40.71 h -92.44 z" />
+    <path
+       id="polygon7153"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1021.9,969.61 -91.67,69.45 -4.01,3.04 v -43.17 l 96.97,-95.25 h 1.47 v 63.84 z" />
+    <path
+       id="polygon7154"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 773.46,904.21 v 35.06 h -53.5 L 698.4,808.53 h 92.7 v 95.68 z" />
+    <path
+       id="polygon7156"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 809.57,985.86 15.64,-107.13 5.49,-4.9 26.69,-23.79 9.11,-8.13 36.05,40.41 -0.15,13.89 12.23,1.84 44.47,44.88 -64.7,33.99 z" />
+    <path
+       id="polygon7158"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1144.48,793.18 v 16.85 h -11.17 v 82.8 l -108.65,1.62 v -92.82 h 22.09 V 659.02 H 911.1 v -63.69 h 222.09 v 45.38 h -0.07 v 34.8 h 33.81 v 117.67 z" />
+    <path
+       id="polygon7186"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 698.13,802.21 -1.85,-44.94 -2.59,-39.59 -12.98,-256.06 h 53.8 v 158.5 l -0.01,0.01 59.54,58.67 -2.94,123.41 z" />
+    <path
+       id="polygon7187"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 661.69,640.33 -6.18,5.82 -17.82,-16.94 5.29,-4.94 -44.82,-49.76 -3.97,4.5 -38.85,-41.58 7.64,-1.4 0.01,-0.43 114.19,-19.13 v 142.56 z" />
+    <path
+       id="polygon7188"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 563.04,531.83 3.89,-309.38 h 110.25 v 290.26 z" />
+    <path
+       id="rect7107"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 235.42999,540.17999 h 51.88 v 45.97 h -51.88 z" />
+    <path
+       d="m 684.75,757.27 -2.35,-39.59 -3.06,-43.94 -10.71,4.59 -22.06,-21 4.94,-6.18 -16.73,-18.81 -5.43,5.43 -38.01,-38.79 -97.83,75.05 -3.79,-5.29 96.22,-73.19 -4.01,-5.12 9.22,-7.15 -41.67,-44.77 V 443 h -3.85 V 217.45 h -310.2 v 268.88 h 13.67 v 9.65 h -9.92 v 27.32 h -3.75 v 12.06 h 58.73 v 50.79 h 218.35 v 8.21 h -48.94 v 59.73 h 8.86 l -9.34,156.47 h 56.13 v 68.45 h 25.88 v 11.42 h 60.05 v -10.81 h 86.72 z m -224,-313.29 h -18.59 v -18.59 h 18.59 z"
+       fill="#ffffff"
+       stroke-width="0"
+       id="path7128"
+       style="fill:#00ffff" />
+    <path
+       id="polygon7161"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 462.28,879.01 v -54.92 l 0.53,-8.94 h 52.76 v 63.86 z" />
+    <path
+       id="rect7162"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 238.63,783.51001 h 213.77001 v 95.5 H 238.63 Z" />
+    <path
+       id="rect7270"
+       style="fill:#00ffff;stroke-width:0"
+       d="M 243.53999,594.35999 H 454.37 v 54.91 H 243.53999 Z" />
+    <path
+       id="rect7161"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 278.45999,722.03003 h 100.76 v 50.03 h -100.76 z" />
+    <path
+       id="polygon7163"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 617.57,1035.71 v -0.56 h 7.65 V 918.52 h 73.41 v 117.19 z" />
+    <path
+       id="polygon7164"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 530.38,1035.72 v -90.54 h 7.16 v -0.09 h 65.21 v 90.63 z" />
+    <path
+       id="rect7164"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 238.63,917.73999 h 67.41001 V 1034.12 H 238.63 Z" />
+    <path
+       id="rect7201"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 314.75,905.85999 h 64.82 V 1034.12 h -64.82 z" />
+    <path
+       id="rect7202"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 383.45999,905.85999 h 66.47 V 1034.12 h -66.47 z" />
+    <path
+       id="polygon7202"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 513.1,1035.72 v 2.18 H 455.57 V 910.33 h 67.65 v 125.39 z" />
+    <path
+       id="rect7145"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1200.85,1038.24 h 76.58 v 57.21 h -76.58 z" />
+    <path
+       id="polygon7174"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1129.96,1100.92 v -3.83 h -17.58 v -58.85 h 72.63 v 62.68 z" />
+    <path
+       id="polygon7175"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1023.91,1162.68 v -60.87 h 85.97 v 2.11 h 20.08 v 58.76 z" />
+    <path
+       id="polygon7176"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 936.1,1162.68 v -13.15 h -10.17 v -37.88 h 95.48 v 51.03 z" />
+    <path
+       id="polygon7177"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 781.96,1182.68 v -33.23 h 7.5 v -14.87 h -7.5 v -19.55 h 65.19 v 67.65 z" />
+    <path
+       id="polygon7178"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 723.69,1182.68 v -30.15 h -15.97 v -22.23 h 6.29 v -15.27 h 67.95 v 67.65 z" />
+    <path
+       id="polygon7179"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 689.77,1150.79 v 31.89 h -57.55 v -67.64 h 4.94 v -0.01 h 67.94 v 35.76 z" />
+    <path
+       id="polygon7180"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 558.87,1182.68 v -67.64 h 2.88 v -0.01 h 61.47 v 0.01 h 6.38 v 67.64 z" />
+    <path
+       id="polygon7181"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 506.4,1182.68 v -31.65 h -14.74 l -1.17,0.34 v -36.33 h 64.49 v 67.64 z" />
+    <path
+       id="polygon7182"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 484.87,1153.03 h -12.36 v 31.89 h -62.42 v -46.12 h 16.54 v -11.88 h -16.54 v -11.88 h 4.28 v -0.01 h 59.2 v 0.01 h 6.71 v 12.88 h 6.33 v 24.6 z" />
+    <path
+       id="polygon7183"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 341.09,1184.92 -0.27,-0.41 v -69.47 h 4.28 v -0.01 h 56.83 v 0.01 h 4.28 v 69.88 z" />
+    <path
+       id="polygon7184"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 335.69,1176.68 h -56.06 v -30 h -18.88 v -24.41 h 7.18 v -7.24 h 64.73 v 0.01 h 4.28 v 63.55 z" />
+    <path
+       d="m 850.6,1119.09 v 63.59 h 0.1 v 3.6 h 61.46 v -30.04 h 10.31 v -37.15 z m 8.5,29.06 h -8.4 v -13.85 h 8.4 z"
+       fill="#ffffff"
+       stroke-width="0"
+       id="path7188"
+       style="fill:#00ffff" />
+    <path
+       id="rect7144"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1350.1899,1038.24 h 77.77 v 60.09 h -77.77 z" />
+    <path
+       style="fill:#00ffff"
+       d="m 1505.067,1038.2892 0.042,71.2809 67.1415,0.049 v -71.3789 z"
+       id="path26"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#00ffff"
+       d="m 1430.4609,1038.2402 v 71.3789 l 73.9399,-0.049 0.01,-71.3299 z"
+       id="rect7143"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#00ffff;stroke:none;stroke-miterlimit:10"
+       d="m 2403.53,336.87376 -110.3649,154.73168 -75.9331,-28.66797 31.8083,-43.72681 33.7771,21.75647 31.6581,-46.55259 -38.8777,-25.60191 50.1434,-52.53085 z"
+       id="path27"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:#00ffff;stroke:none;stroke-miterlimit:10"
+       d="m 2281.0172,432.33332 24.995,-35.66593 -29.6419,-19.73644 -24.387,35.4373 z"
+       id="path28"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#00ffff;stroke:none;stroke-miterlimit:10"
+       d="m 2319.9493,316.33958 -146.1953,155.01174 -48.5549,25.8855 0.078,-240.10757 125.5839,0.23532 0.1569,58.98755 z"
+       id="path29" />
+    <path
+       id="rect7129"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1041.01,1185.98 h 86.15 v 97.44 h -86.15 z" />
+    <path
+       id="polygon7129"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 939.12,1283.42 v -84.3 h 11.81 v -8.11 h 74.68 v 92.41 z" />
+    <path
+       id="rect7130"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 580.51001,1197.45 h 89.31 v 85.97 h -89.31 z" />
+    <path
+       id="polygon7131"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 485.54,1283.42 v -88.62 h 14.86 v 2.65 h 77.5 v 85.97 z" />
+    <path
+       id="rect7131"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 250.87,1194.8 h 110.26 v 75.1201 H 250.87 Z" />
+    <path
+       id="rect7203"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 379.16,1206.09 h 103.77 v 77.33 H 379.16 Z" />
+    <path
+       id="rect7204"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 672.44,1202.03 h 102.85 v 81.39 H 672.44 Z" />
+    <path
+       id="rect7125"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 786.34003,1341.48 h 139.14 v 43.58 h -139.14 z" />
+    <path
+       id="polygon7189"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 382.24,1498.46 v -85.5 h 72.53 l 0.01,12.31 h 2.16 v 73.19 z" />
+    <path
+       id="polygon7190"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 454.78,1387.87 v 19.14 h -0.01 v 5.95 h -72.53 v -65.4 h 75.18 v 40.31 z" />
+    <path
+       id="rect7190"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 462.28,1425.27 h 116.78 v 73.19 H 462.28 Z" />
+    <path
+       id="rect7191"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 552.71997,1347.5601 h 73.71 v 71.94 h -73.71 z" />
+    <path
+       id="polygon7191"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 488.57,1419.5 v -12.49 h -28.01 v -59.45 h 92.16 v 71.94 z" />
+    <path
+       id="polygon7192"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 270.98,1421.52 v -38.05 h -20.11 v -53.33 l 22.76,2.2 18.09,2.08 18.08,2.09 15.65,1.8 v 83.21 z" />
+    <path
+       id="polygon7193"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 325.45,1501.56 -74.58,2.53 v -75.06 h 20.11 v -7.51 h 54.47 v 22.88 h -0.01 v 48.99 h 0.01 z" />
+    <path
+       id="polygon7206"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 707.48,1421.15 v 0.01 h -77.9 v -73.6 h 79.64 v 43.6 h -29.99 v 29.99 z" />
+    <path
+       id="polygon7207"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 584.4,1498.46 v -69.91 h 35.55 v 0.01 h 87.53 v 69.9 z" />
+    <path
+       id="polygon7123"
+       style="fill:#00ffff;stroke-width:0"
+       d="M 896.4,1419.05 V 1492 H 786.34 v -72.96 h 139.15 v 0.01 z" />
+    <path
+       id="polygon7124"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1046.4,1492 v 0.06 h -14.53 v -90.67 h 84.5 v 10.38 h 11.03 V 1492 Z" />
+    <path
+       id="polygon7204"
+       style="fill:#00ffff;stroke-width:0"
+       d="M 1014.66,1492.06 V 1492 h -85.45 v -80.27 h 99.98 v 80.33 z" />
+    <path
+       d="m 865.67651,1197.4794 -0.0397,85.8967 69.65222,0.044 v -75.5195 h -8.09961 v -10.4512 z"
+       id="path31"
+       style="fill:#00ffff"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       d="m 777.91016,1197.4492 v 85.9707 l 87.35375,-0.062 0.0674,-85.883 z"
+       id="polygon7130"
+       style="fill:#00ffff"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="rect31"
+       style="fill:#00ffff;stroke-miterlimit:10"
+       d="m 928.51489,1367.2024 h 167.92741 v 22.1125 H 928.51489 Z" />
+    <path
+       style="fill:#00ffff"
+       d="m 811.57031,1570.0452 -46.85937,0.1113 -46.86133,0.1192 v 0.029 l -25.98047,0.5682 v 40.9317 h 0.26172 v 2.7695 h 23.67969 v 30.2305 H 740.75 v 4.7598 h 70.82031 v -78.6914 z"
+       id="path35"
+       sodipodi:nodetypes="ccccccccccccccc" />
+    <path
+       style="fill:#00ffff"
+       d="m 924.90097,1569.7929 -22.74081,0.018 -42.58985,0.1094 -42.58008,0.1 -0.01,0.8517 v 78.6914 h 90.17969 v -7.9297 h 13.25976 v -8.2402 h 4.40039 z"
+       id="path33"
+       sodipodi:nodetypes="cccccccccccc" />
+    <path
+       style="fill:#00ffff"
+       d="m 1013.75,1569.5389 -36.83984,0.092 -31.5,0.08 -17.44797,0.08 -0.11258,44.7794 h 11.20117 v 18.8203 h 90.75222 l -0.069,-63.8758 c -0.01,-5.3278 -10.656,0.012 -15.9839,0.024 z m -60.14062,55.2502 h 18.02148 v 8.5918 h -18.02148 z"
+       id="path39"
+       sodipodi:nodetypes="ccccccccscccccc" />
+    <path
+       style="fill:#00ffff"
+       d="m 1132.9805,1569.2402 -23.8496,0.061 -33.17,0.08 -33.4414,0.09 -12.3953,0.045 -0.025,63.8747 h 95.6211 v -9.5898 h 16.209 v -19.2305 h -15.9492 v -34.4199 h 7 z"
+       id="path7193"
+       sodipodi:nodetypes="cccccccccccccc" />
+    <path
+       style="fill:#00ffff"
+       d="m 368.3454,1570.8281 h -4.65595 l -21.45898,0.027 -27.58008,0.041 v -0.029 l -19.58008,0.029 -38.03125,13.0195 v 49.6094 h 14.74024 v 10.3613 l 96.54568,-0.014 z"
+       id="path43"
+       sodipodi:nodetypes="cccccccccccc" />
+    <path
+       style="fill:#00ffff"
+       d="m 467.05078,1570.6696 -39.80078,0.061 -39.78906,0.061 -18.79493,0.029 -0.0855,73.0558 96.51906,0.014 v -26.6211 h 20.42969 l 4e-5,-46.4004 z"
+       id="path46"
+       sodipodi:nodetypes="cccccccccc" />
+    <path
+       style="fill:#00ffff"
+       d="m 597.78481,1570.5405 -48.12465,0.012 -48.32032,0.066 -13.1289,0.2504 v 42.0508 l 9.5,0.1895 v 30.7812 l 100.05986,-0.05 z"
+       id="path41"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:#00ffff"
+       d="m 667.68945,1570.3728 -34.84961,0.051 -34.68517,0.1113 -0.0116,73.3076 83.42724,0.05 v -32.0899 h 7.26953 v -40.9316 z"
+       id="path37"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       id="polygon7121"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 901.93,1843.03 v 14.36 H 788.75 v -61.58 h 128 v 47.22 z" />
+    <path
+       id="polygon7122"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 946.28,1876.97 v -35.23 h -20.59 v -44.47 h 21.38 l 7.56,4.01 22.06,11.7 22.23,11.79 3.17,1.68 v 50.52 z" />
+    <path
+       id="polygon7125"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 992.27,1764.26 -30.11,-16.1 -30.24,-16.17 -7.47,-3.99 v -76.26 h 75.41 v 116.57 z" />
+    <path
+       id="rect7193"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 805.78003,1649.5601 h 106.31 v 75.95 h -106.31 z" />
+    <path
+       id="polygon7205"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 352.87,1724.74 v -75.99 h 84.88 v -1.41 h -84.88 v -0.19 h 85.17 v 77.59 z" />
+    <path
+       id="polygon7113"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 257.04,1724.74 v -71.18 h 7.12 v -6.41 h 86.03 v 77.59 z" />
+    <path
+       style="fill:#00ffff"
+       d="m 526.22685,1647.207 c 0.70151,26.6316 -0.27083,52.2123 -0.0545,77.5035 l 83.69681,0.03 v -77.5898 z"
+       id="path50"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#00ffff"
+       d="m 465.09961,1646.5605 v 0.5899 h -24.38867 v 77.5898 l 84.84895,-0.089 c 0.35714,-25.4633 0.10981,-51.5603 0.10981,-77.4442 l -27.95876,-0.057 v -0.5899 z"
+       id="polygon7275"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:#00ffff"
+       d="m 740.75,1655.5605 v 7.1797 l -23.64944,0.083 -0.0984,62.6739 73.15782,0.042 v -0.029 h 12.41015 v -69.9493 z"
+       id="path52"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:#00ffff"
+       d="m 612.53906,1649.5605 v 75.9688 h 6.91016 v 0.01 l 97.22071,-0.042 c 1.28094,-25.2978 0.0416,-50.6112 0.19938,-75.9364 z"
+       id="polygon7112"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:#00ffff"
+       d="M 673.44924,1866.5879 H 621.2207 v 74.6094 h 87.0586 v -74.6094 h -34.81836 z"
+       id="path54"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:#00ffff"
+       d="m 595.17068,1788.7324 0.0516,75.186 78.22664,-0.059 0.0117,-25.9082 h 34.81836 v -49.2188 z"
+       id="path56"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:#00ffff"
+       d="m 504.2793,1788.7324 v 74.5391 l 90.67303,0.5879 -0.0515,-75.0975 z"
+       id="path58"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#00ffff"
+       d="m 410.39062,1788.7324 v 74.5391 l 37.76952,0.5879 v -27.959 h 34.06054 v 27.959 l 19.11909,-0.5879 v -74.5391 z"
+       id="path60"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:#00ffff"
+       d="m 322.343,1788.7968 -0.0213,75.0626 84.4283,-0.5879 v -74.5391 z"
+       id="path62"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#00ffff"
+       d="m 250.96094,1788.7305 v 0.029 H 236.75 v 35.58 h 7.17969 v 8.8301 h 11.75976 v 30.6895 h 66.31341 l 0.008,-75.0958 z"
+       id="polygon7106"
+       sodipodi:nodetypes="ccccccccccc" />
+    <path
+       id="rect7106"
+       style="fill:#00ffff;stroke-width:0"
+       d="M 319.10001,1863.86 H 413.69 v 77.34 h -94.58999 z" />
+    <path
+       id="polygon7114"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 416.4,1941.2 v -77.34 h 29.73 v 10.85 h 36.09 v -10.85 h 49 v 77.34 z" />
+    <path
+       id="rect7205"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 534.15997,1866.59 h 87.06 v 74.61 h -87.06 z" />
+    <path
+       id="polygon7276"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 233.46,1883.86 h 8.35 v -11.53 h 10.23 v -7.37 h 67.06 v 76.24 l -85.64,-0.05 z" />
+    <path
+       id="polygon7115"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 268.04,2092.86 v -14.47 h -11.06 v -8 h -9.82 v -49.13 l 27.17,-14.22 h 57.18 v 85.82 z" />
+    <path
+       id="polygon7117"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 785.51,2066.04 v 26.82 h -72.03 v -26.03 h -30.26 v -59.79 h 102.29 v 37.2 h -12.83 v 21.8 z" />
+    <path
+       id="rect7117"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 593.09998,2007.04 h 87.19999 v 85.82 h -87.19999 z" />
+    <path
+       id="rect7118"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 509.31,2007.04 h 83.79 v 85.82 h -83.79 z" />
+    <path
+       id="polygon7118"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 486.81,2091.31 v -25.41 h -35.47 v 25.41 h -33 v -84.27 h 88.05 v 84.27 z" />
+    <path
+       id="rect7119"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 331.51001,2007.04 h 83.9 v 85.82 h -83.9 z" />
+    <path
+       id="polygon7116"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 521.6,2355.71 0.42,-128.56 h 129.61 v 128.56 z" />
+    <path
+       id="polygon7272"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 659.48,2143.62 v 2.71 8 h 88.15 v -8 h 16.65 v -37.41 h -104.8 z" />
+    <path
+       style="fill:#00ffff"
+       d="m 770.09961,2108.9199 v 39.7598 H 750.2793 v 7.0605 h -90.79883 c -0.36261,23.8091 0.40043,47.6052 0.40043,71.4102 h -0.0117 l -0.5,47.4805 -0.17969,17.1582 -0.16992,16.541 -0.45898,44.3496 H 921.75 l 0.0508,-17.8789 0.0898,-28.4707 0.0801,-28.4707 0.38868,-130.2403 h -8.13868 v -19.8789 h 8.17969 v 6.709 l 0.0703,-25.5293 z"
+       id="path64"
+       sodipodi:nodetypes="cccccccccccccccccccccc" />
+    <path
+       style="fill:#00ffff"
+       d="m 522.40039,2108.9199 -0.37109,114 h 125.9414 c 0,-89.2225 -0.53129,99.9232 -0.53129,-114 z"
+       id="polygon7119"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#00ffff"
+       d="m 920.7793,2648.2109 h -161.5 v 113.0098 l 161.25,0.049 0.0801,-28 0.0898,-28.8496 0.0801,-28.8496 z"
+       id="path66"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       style="fill:#00ffff"
+       d="m 534.07031,2360.8008 v 6.9101 h -7.13086 l -0.6289,154 h 6.58984 v 15.7989 H 526.25 l -0.40039,98 H 920.7793 l 0.41992,-98.3399 h -6.42969 v -15.1191 h 6.4707 l 0.45899,-154.0703 h -6.41992 v -7.1797 h -155 v 7.1797 h -15.0586 v -7.1797 z m 210.08985,161.2793 h 15.11914 v 15.1191 h -15.11914 z"
+       id="path7194"
+       sodipodi:nodetypes="cccccccccccccccccccccccccc" />
+    <path
+       id="rect7194"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1201.1,2360.21 h 149.41 v 98.47 H 1201.1 Z" />
+    <path
+       id="polygon7196"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1201.1,2673.8 v -87.24 h 19.18 v -16.23 h -19.18 v -103.82 h 149.41 v 207.29 z" />
+    <path
+       id="rect7197"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1201.1,2678.3899 h 149.41 v 58.88 H 1201.1 Z" />
+    <path
+       id="polygon7197"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1436.63,2698.13 v -111.65 h 10.53 v -10.88 h 64.56 v 122.53 z" />
+    <path
+       id="rect7198"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1517.25,2575.6001 h 55.8 v 121.58 h -55.8 z" />
+    <path
+       id="rect7199"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1433.86,2702.0901 h 141.07 v 35.18 h -141.07 z" />
+    <path
+       id="polygon7246"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1356.9,2786 v 9.62 h -151.68 v -53.76 h 151.68 v 11.02 h 0.02 V 2786 Z" />
+    <path
+       id="rect7250"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1578.5699,2575.6001 h 56.53 v 78.32 h -56.53 z" />
+    <path
+       id="polygon7252"
+       style="fill:#00ffff;stroke-width:0"
+       d="M 1367.18,2795.62 V 2786 h 0.03 v -33.12 h -0.03 v -11.02 h 158.29 v 53.76 z" />
+    <path
+       id="rect7195"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1437.9301,2360.21 h 114.88 v 100.24 h -114.88 z" />
+    <path
+       id="rect7196"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1437.9301,2465.8301 h 114.88 v 45.68 h -114.88 z" />
+    <path
+       id="rect7247"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1785.22,2357.3899 h 111.59 v 211.88 h -111.59 z" />
+    <path
+       id="rect7251"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1559.63,2358.98 h 110.65 v 152.53 h -110.65 z" />
+    <path
+       id="rect7252"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1677.1,2358.98 h 103 v 152.53 h -103 z" />
+    <path
+       id="polygon7253"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1607.95,2737.27 v -77.82 h 24.56 v 20.76 h 37.95 v 57.06 z" />
+    <path
+       id="rect7253"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1675.54,2576.8 h 79.21 v 160.4701 h -79.21 z" />
+    <path
+       id="rect7259"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1820.98,2630.5601 h 76.8 v 106.71 h -76.8 z" />
+    <path
+       id="polygon7261"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1813.93,2626.68 v 110.59 h -55.06 V 2576.8 h 65.38 v 49.88 z" />
+    <path
+       id="polygon7262"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1830.1,2626.68 v -49.88 h 57.47 v 10.47 h 10.21 v 39.41 z" />
+    <path
+       id="polygon7244"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1205.22,2961.92 v -148.77 h 13.42 v -8.77 h 210.11 v 8.77 h 11.06 v 148.77 z" />
+    <path
+       id="polygon7245"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1764.98,2970.53 v 58.92 h -94.82 v -6.3 h -20.23 v 6.3 h -200.24 v -227.12 h 210.6 v 10.34 h 14.22 v -10.34 h 95.18 v 168.2 z" />
+    <path
+       id="rect7245"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1774.51,2974.98 h 103.77 v 54.47 h -103.77 z" />
+    <path
+       id="polygon7254"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1784.98,2969.39 v -170 h 33.89 v 13.39 h 4.47 l 64.32,104.61 h -3.38 l 0.12,1.97 v 0.01 l 2.97,50.02 z" />
+    <path
+       d="m 1659.3398,2575.5996 h -20.1191 v 99.2012 h 31.2402 v -87.1211 h -10.9804 z"
+       id="path68"
+       style="fill:#00ffff"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       id="rect7249"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1578.5699,2659.45 h 25.74 v 77.82 h -25.74 z" />
+    <path
+       id="rect68"
+       style="fill:#00ffff;stroke-miterlimit:10"
+       d="m 1354.4904,2363.3196 h 76.5142 v 42.2983 h -76.5142 z" />
+    <path
+       id="rect7248"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2078.9299,2641.2 h 38.76 v 173.3099 h -38.76 z" />
+    <path
+       id="polygon7255"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2075.28,2633.08 v 177.37 h -166.74 v -218.18 h 84.09 v 139.74 h -53.17 v 7.79 h 105.29 v -3.9 h -42.12 v -143.63 h 113.27 v 40.81 z" />
+    <path
+       id="polygon7256"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2137.78,2810.45 v -9.8 h -12.62 v -204.03 h 56.55 v 213.83 z" />
+    <path
+       id="rect7256"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2189.5701,2592.27 h 154.33 v 218.18 h -154.33 z" />
+    <path
+       id="polygon7257"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2162.28,2917.41 v 0.01 h -34.47 v -0.01 h -175.06 v -98.85 h 218.75 v 98.85 z" />
+    <path
+       id="polygon7258"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2278.16,3032.62 v -7.56 h -41.25 v -101.73 h 109.3 v 109.12 h 1.75 v 0.17 z" />
+    <path
+       id="rect7260"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2353.6599,2920.45 h 45.58 v 105.76 h -45.58 z" />
+    <path
+       id="polygon7243"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2167.69,2581.92 v -10.18 h -13.59 v -146.32 h 183.83 v 156.5 z" />
+    <path
+       id="polygon7248"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2402.46,2581.92 v -10.18 h -14.71 v 10.18 h -36.88 v -10.18 h -5.18 v -146.32 h 35.53 v -13.44 h 47.65 v 169.94 z" />
+    <path
+       style="fill:#00ffff"
+       d="m 2154.0991,2359.8594 v 55.0605 H 2373.81 v -13.2402 h 57.9493 l 14.7207,-31.1094 3.7988,-8.041 -46.1191,-0.1992 h -25.7696 v -1.1504 l -60.7011,-0.1406 -89.2891,-1.42 z"
+       id="path70"
+       sodipodi:nodetypes="ccccccccccccc" />
+    <path
+       style="fill:#00ffff"
+       d="m 2054.0391,2358.5605 v 149.5899 h 95.3007 l -0.1187,-149.5899 z"
+       id="polygon7263"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="rect7263"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1903.16,2357.3899 h 92.65 v 45.06 h -92.65 z" />
+    <path
+       id="polygon7264"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 1903.16,2581.92 v -173.83 h 98.3 v -49.06 h 47.82 v 153.89 h 100.06 v 69 z" />
+    <path
+       id="rect7264"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2505.3201,2924.6201 h 112.55 v 100.3 h -112.55 z" />
+    <path
+       id="rect7265"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2622.8999,2924.6201 h 108.22 v 100.3 h -108.22 z" />
+    <path
+       id="rect7266"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2736.1499,2924.6201 h 111.51 v 100.3 h -111.51 z" />
+    <path
+       d="m 3071.25,2919.21 -0.12,-67.23 -0.1,-55.06 -0.11,-60.24 -0.18,-98.82 -0.04,-22.36 -0.04,-22.35 -111.5,-3.06 h -4.76 v -16.7 h -86.74 v 21.64 h -25.53 v -21.64 h -201.29 v 21.64 h -25.53 v -21.64 h -173.74 v 13.06 h -0.23 v 5.82 h -92.44 v 191.24 h 29.03 v 3.94 h 32.23 v 31.11 h -56.5 v 94 h 54.74 v 112.36 h 91.45 v -105.77 h 445.19 v 0.06 z m -431.32,-99.73 h -24.62 v -24.62 h 24.62 z m 226.35,0 h -24.62 v -24.62 h 24.62 z"
+       fill="#ffffff"
+       stroke-width="0"
+       id="path7266"
+       style="fill:#00ffff" />
+    <path
+       id="polygon7267"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2439.57,2569.51 v -167.83 h -0.01 l 14.71,-31.11 3.79,-8.01 445.07,1.89 h 51.27 v 205.06 z" />
+    <path
+       id="polygon7268"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2489.75,3221.8 v -177.53 h 120.18 v 19.35 h 13.7 v 158.18 z" />
+    <path
+       id="rect7268"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2627.3401,3044.27 h 145 v 174.53 h -145 z" />
+    <path
+       id="polygon7270"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 3293.76,3112.46 -20.12,20.12 0.29,0.28 -83.24,83.23 -0.53,-0.53 -45,44.65 -3.7,-3.18 -4.77,3.89 -58.41,-60 14.65,-150 144,-5.12 58.94,58.23 -4.89,5.42 3.36,3.59 z" />
+    <path
+       id="polygon7274"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2857.34,3067.32 h -19.36 v -23.05 h -63.79 v 27.59 h 1.85 v 148.41 l 183.65,2.58 v -122.88 l 24,-55.7 h -126.35 z" />
+    <path
+       style="fill:#00ffff"
+       d="m 3071.3301,3044.2695 h -76.6992 l -22.5918,46 4.0605,7.2403 -12.6992,8.8203 v 116.5293 l 52.4805,0.4902 62.9082,0.5899 -10.5098,-45.8497 3.2012,-132.289 z"
+       id="path72"
+       sodipodi:nodetypes="ccccccccccc" />
+    <path
+       style="fill:#00ffff"
+       d="m 2852.6895,2924.6191 v 100.3008 h 218.6406 v -60.4668 l -0.07,-39.7695 h -126.2207 v -0.061 z"
+       id="polygon7269"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       style="fill:#00ffff"
+       d="m 3070.1309,2359.7402 h -110.9707 v 215.5293 h 111.3496 l 0.1504,17.8809 -0.051,-23.0508 -0.1,-58.8301 -0.17,-90.8203 -0.051,-27.3594 -0.029,-16.1796 -0.029,-17.17 z"
+       id="path74"
+       sodipodi:nodetypes="cccccccccccc" />
+    <path
+       style="fill:#00ffff"
+       d="m 3070.1309,2301.2598 v 3.3007 h -110.9707 v 46.3399 h 110.9707 z"
+       id="polygon7233"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       id="rect7241"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2907.8701,2130.73 h 44.64 V 2186 h -44.64 z" />
+    <path
+       d="m 3069.5898,2176.1504 h -110.4296 v 121.8105 h 110.9589 l -0.019,-8.8105 -0.029,-17.1797 -0.031,-16.5215 v -0.1797 l -0.049,-26.8203 z"
+       id="path76"
+       style="fill:#00ffff"
+       sodipodi:nodetypes="cccccccccc" />
+    <path
+       d="m 2908.8691,2194.2402 4e-4,170.209 h 45.5313 v -170.209 z"
+       id="path78"
+       style="fill:#00ffff"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       d="m 2847.2207,2129.5605 v 160.17 h 10.1191 v 14.7187 h -10.1191 v 35.5117 h 10.1191 v 10.3086 h 45.7793 l 0.012,10.7207 5e-4,-231.4297 z"
+       id="polygon7266"
+       style="fill:#00ffff"
+       sodipodi:nodetypes="cccccccccccc" />
+    <path
+       id="polygon7220"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2624.9,2076.25 v 45.28 h -80.44 v -146.38 h 80.44 v 85.06 h -9.52 v 16.04 z" />
+    <path
+       id="polygon7221"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2404.7,2121.53 0.1,-46.14 0.04,-15.53 0.13,-60.71 0.06,-25.59 h 134.48 v 147.97 z" />
+    <path
+       id="polygon7225"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2614.56,2287.03 v 59.6 l -210.24,-0.89 -0.16,16.59 0.16,-73.06 0.14,-60.7 0.08,-33.75 h 217.92 v 92.21 z" />
+    <path
+       id="polygon7226"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2629.16,2346.69 v -151.87 h 88.94 v 152.25 z" />
+    <path
+       id="polygon7227"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2830.75,2324.31 v 24.19 l -104.89,-0.42 -1.05,-0.14 v -153.12 h 113.47 v 129.49 z" />
+    <path
+       d="m 2404.6895,2126.7402 -0.02,9.709 -0.1094,51.2305 102.0586,-0.4102 v -60.5293 z"
+       id="polygon7239"
+       style="fill:#00ffff"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       id="rect7219"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2766.46,2039.8 h 76.82 v 28.88 h -76.82 z" />
+    <path
+       id="polygon7224"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2798.87,1963.33 v 11.82 h -107.52 v -132.53 h 1.28 v 1.12 h 106.24 v 106.85 h -9.09 v 12.74 z" />
+    <path
+       id="rect7231"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2693.3,1980.26 h 149.98 v 54.27 H 2693.3 Z" />
+    <path
+       id="polygon7234"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2806.22,1973.21 v -129.47 h 35.59 v 8.47 h 15.53 v -8.23 h 46.23 v 129.23 z" />
+    <path
+       id="polygon7238"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2693.3,2122.45 v -85.28 h 60.27 v 38.39 h 24.97 v 46.89 z" />
+    <path
+       id="polygon7232"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2860.22,2063.86 v -2.3 h -12.18 v -85.8 h 55.53 v 88.1 z" />
+    <path
+       d="m 2860.2207,2068.5605 v 9.0293 h -16.9414 v -3.08 h -56.8789 v 47.9394 h 117.1699 v -53.7695 z"
+       id="path82"
+       style="fill:#00ffff"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       id="rect7240"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2908.8701,1843.98 h 43.64 v 133.76 h -43.64 z" />
+    <path
+       id="polygon7217"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2758.88,1671.2 v -49.49 l 23.28,0.12 16.97,0.09 16.91,0.09 14.49,0.07 -0.02,4.73 h 0.02 l -0.02,3.35 6.21,0.03 v 41.57 z" />
+    <path
+       id="polygon7231"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2949.24,1672.57 -33.64,-0.24 -72.56,-0.53 v -43.82 l 158.53,0.8 v 44.16 z" />
+    <path
+       id="polygon7235"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2775.95,1835.74 v -158.77 l 139.6,1 16.83,0.12 16.82,0.12 52.37,0.38 v 157.15 z" />
+    <path
+       d="m 3010.764,1627.7141 -0.075,212.1458 h 58.5996 l -0.3887,-211.0586 h -10.3496 v -1.1133 z"
+       id="path84"
+       style="fill:#00ffff"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       id="polygon7216"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2692.63,1831.98 v -210.6 l 11.65,0.06 16.93,0.08 16.95,0.09 14.4,0.07 v 50.1 h 0.02 l -0.04,5.02 19.76,0.14 v 155.04 z" />
+    <path
+       id="polygon7218"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2405.59,1723.56 0.09,-40.64 0.14,-60 h 121.81 v 100.64 z" />
+    <path
+       id="rect7221"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2534.22,1625.27 h 90.68 v 98.29 h -90.68 z" />
+    <path
+       id="polygon7222"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2614.81,1835.33 v 7.29 h -209.48 l 0.01,-8.64 0.14,-60 0.1,-43.83 h 219.32 v 105.18 z" />
+    <path
+       id="polygon7223"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2405.04,1968.62 0.13,-58.41 0.14,-58.94 0.01,-2.47 h 209.49 v 2.23 h 10.09 v 117.59 z" />
+    <path
+       id="polygon7215"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2615.04,1382.83 v 114.44 h -155.82 v -99.35 h 55.3 v -114.18 h 109.52 v 99.09 z" />
+    <path
+       id="polygon7228"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2768.51,1535.92 -16.7,-0.09 -16.95,-0.09 -43.88,-0.23 v -135.83 h 121.77 v 136.47 z" />
+    <path
+       id="polygon7229"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2913.45,1536.7 -15.88,-0.09 -16.94,-0.09 -62.23,-0.34 v -136.5 h 121.17 v 137.16 z" />
+    <path
+       id="polygon7230"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2997.89,1537.15 -17.55,-0.09 -15.71,-0.09 -19.41,-0.1 v -137.19 h 70.23 v 137.56 z" />
+    <path
+       id="polygon7236"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 3066.16,1543.45 -23.44,-0.12 v -3.35 l -21.62,-0.12 v -142.91 h 33.06 v 9.38 h 16.44 l 0.1,133.65 h -4.54 z" />
+    <path
+       id="polygon7212"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2623.71,1278.1 h -217.12 l 0.07,-32.47 0.13,-58.59 0.07,-29.65 h 208.18 v 18.53 h 9.71 v 96.48 z" />
+    <path
+       style="fill:#00ffff"
+       d="m 2405.9805,1548.1 -0.1309,58.5801 -0.019,12.3496 h 209.039 v -10.3398 h 10.4004 v -105.2403 h -218.9101 z"
+       id="path86"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:#00ffff"
+       d="m 2406.2692,1420.3301 -0.039,19.2304 -0.051,19.2403 0.1796,38.4683 h 48.0312 v -99.3496 h -48.0312 z"
+       id="path88"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       style="fill:#00ffff"
+       d="m 2406.5801,1283.7402 -0.09,38.1192 -0.1308,59.291 v 11.2988 h 103.3301 v -108.709 z"
+       id="polygon7219"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       id="polygon7208"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2838.31,1384.33 v 9.41 h -46.68 v -29.68 h 56.05 v 20.27 z" />
+    <path
+       id="rect7208"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2792.46,1310.5601 h 55.22 v 47.86 h -55.22 z" />
+    <path
+       id="polygon7209"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2850.9,1393.74 v -88.82 h -59.27 v -51.65 h 63.71 v -92.82 h 144.47 v 233.29 z" />
+    <path
+       id="polygon7210"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 3015.46,1384.89 v 8.85 h -1.06 v -230.88 h 43.29 v 17.2 h 15.91 v 204.83 z" />
+    <path
+       id="rect7210"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2723.1599,1365.0601 h 62.53 v 28.68 h -62.53 z" />
+    <path
+       id="polygon7211"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2717.22,1359.12 v 34.62 h -88.35 v -112.47 l 1.16,-6.35 h 38.31 v -28.71 h 12.41 v 7.06 h 104.94 v 105.85 z" />
+    <path
+       id="polygon7214"
+       style="fill:#00ffff;stroke-width:0"
+       d="m 2693.31,1243.86 v -86.47 h 147.44 v 15.53 h 11.29 v 70.94 z" />
+  </g>
+</svg>
