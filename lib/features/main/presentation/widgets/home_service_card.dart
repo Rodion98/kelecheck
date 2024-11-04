@@ -1,7 +1,11 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:flutter_svg/svg.dart';
+import 'package:ud_mobile_app/core/constants/app_images.dart';
 import 'package:ud_mobile_app/core/constants/enums.dart';
+import 'package:ud_mobile_app/core/widgets/custom_image.dart';
+import 'package:ud_mobile_app/core/widgets/custom_image_view.dart';
 import 'package:ud_mobile_app/features/main/data/rental_option.dart';
 
 import '../../../../core/io_ui.dart';
@@ -115,15 +119,15 @@ class _HomeServiceCardWidgetState extends State<HomeServiceCardWidget> {
       //   }
       // }
       ,
-      onTapDown: (details) => setState(() {
-        _isTapped = true;
-      }),
-      onTapUp: (details) => setState(() {
-        _isTapped = false;
-      }),
-      onTapCancel: () => setState(() {
-        _isTapped = false;
-      }),
+      // onTapDown: (details) => setState(() {
+      //   _isTapped = true;
+      // }),
+      // onTapUp: (details) => setState(() {
+      //   _isTapped = false;
+      // }),
+      // onTapCancel: () => setState(() {
+      //   _isTapped = false;
+      // }),
       borderRadius: BorderRadius.circular(12),
       splashColor: AppColors.lightBlue,
       highlightColor: AppColors.lightBlue.withOpacity(0.5),
@@ -238,10 +242,9 @@ class _HomeServiceCardWidgetState extends State<HomeServiceCardWidget> {
             const SizedBox(
               width: 30,
             ),
-            // CustomImageView(
-            //   imagePath: widget.rentalOption.imagePath,
-            //   width: 110,
-            // ),
+            // Container(color: AppColors.A7A7A7,width: 40,height: 40),
+            // SvgPicture.asset(AppImagePaths.kyalCard,height: 50,width: 50,),
+            // CustomImage(imagePath: AppImagePaths.kyalCard,placeHolder: 'assets/applogo.png',color: ,)
           ],
         ),
       ),
